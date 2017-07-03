@@ -1,0 +1,8 @@
+{
+  "repo_name": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "shurado/shurado",
+    "environments": ["production", "staging"]
+  }
+}
